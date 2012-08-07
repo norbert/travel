@@ -8,5 +8,6 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 
 <a href="/norbert/travel/fork_select" class="minibutton btn-fork" rel="facebox nofollow">Help me</a> plan the following:
 
+* [Berlin, Germany](https://github.com/norbert/travel/blob/master/Germany/Berlin.md), August 2012
 * Tokyo, Japan, TBD
 * Cape Town, South Africa, TBD
