@@ -60,7 +60,6 @@
 * [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
 * [Becketts Kopf](http://www.becketts-kopf.de)
 * [Buck & Breck](http://buckandbreck.com)
-* [Club Der Visionäre](http://clubdervisionaere.com)
 * [Edelweiss](http://www.edelweiss36.com/)
 * [Finest Whisky](http://www.finestwhisky.de)
 * [Green Door](http://greendoor.de)
@@ -87,21 +86,19 @@
 ## Clubbing
 
 ### Decent
-
-* ~~[Arena](http://www.arena-club.de/)~~
 * [Tresor](http://tresorberlin.com/)
-* ~~[VCF](http://www.residentadvisor.net/club-detail.aspx?id=8007)~~
-* ~~[Weekend](http://www.week-end-berlin.de/)~~
+* [Weekend](http://www.week-end-berlin.de/)
+* [Arena](http://www.arena-club.de/)
+* [VCF](http://www.residentadvisor.net/club-detail.aspx?id=8007)
 
 ### Good
 
-* ~~[Horst Krzbrg](http://www.horst-krzbrg.de)~~
-* ~~[KaterHolzig](http://www.katerholzig.de/)~~
+* [Horst Krzbrg](http://www.horst-krzbrg.de)
+* [KaterHolzig](http://www.katerholzig.de/)
 
 ### Excellent
-
-* ~~[Berghain](http://berghain.de/)~~
-* ~~[Watergate](http://www.water-gate.de/)~~
+* [Berghain](http://berghain.de/)
+* [Watergate](http://www.water-gate.de/)
 
 ## Activities
 
