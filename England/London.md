@@ -14,6 +14,7 @@
 
 * [Dean Street Townhouse](http://www.deanstreettownhouse.com/)
 * [St. JOHN BREAD & WINE](http://www.stjohnbreadandwine.com/)
+* ~~[Hawksmoor](http://thehawksmoor.com/)~~
 
 ### Fine
 
