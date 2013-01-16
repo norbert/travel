@@ -22,6 +22,9 @@
 
 * [PRIMO Bar](http://www.primobar.co.uk/) - Open 24 hours.
 * [The Scotch Malt Whisky Society](http://www.smws.co.uk/venues/19_Greville_Street,_London)
+* [Opium Cocktail Bar](http://www.designmynight.com/london/bars/opium-leicester-square)
+* ~~[Experimental Cocktail Club](http://experimentalcocktailclublondon.com/)~~
+* ~~[Milk & Honey](http://www.mlkhny.com/london/)~~
 
 ## Activities
 
