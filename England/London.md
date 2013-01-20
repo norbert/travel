@@ -5,6 +5,7 @@
 ## Accommodation
 
 * [Park Plaza Westminster Bridge](http://www.parkplaza.com/london-hotel-gb-se1-7ut/gbwestmi)
+* [St Martins Lane Hotel](http://www.stmartinslane.com/)
 
 ## Dining
 
