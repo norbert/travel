@@ -6,6 +6,13 @@
 
 ## Accommodation
 
+## Café
+
+* [The Barn](http://thebarn.de/)
+* [Bateau Ivre](http://www.qype.co.uk/place/14933-Bistro-Bar-Bateau-Ivre-Berlin)
+* [Café CK](http://cafeckberlin.com/)
+* [Five Elephant](http://www.fiveelephant.com)
+
 ## Dining
 
 ### Fast
@@ -23,13 +30,6 @@
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 * ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
-
-### Café
-
-* [The Barn](http://thebarn.de/)
-* [Bateau Ivre](http://www.qype.co.uk/place/14933-Bistro-Bar-Bateau-Ivre-Berlin)
-* [Café CK](http://cafeckberlin.com/)
-* [Five Elephant](http://www.fiveelephant.com)
 
 ### Good
 
@@ -55,6 +55,8 @@
 
 ### Fine
 
+* [reinstoff](http://reinstoff.eu)
+
 ## Drinking
 
 * [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
@@ -77,8 +79,10 @@
 * [Depot2](http://depot2.de)
 * ~~[Dong Xuan Center](http://www.findingberlin.com/dong-xuan-center/)~~
 * ~~[feinschlicht](http://www.feinschlicht.de)~~ _Wir machen Frucht- und Gemüseaufstriche, Chutneys und mehr ..._
+* [Finest Whisky](http://www.finestwhisky.de)
 * [Fussgarage](http://www.fussgarage.de)
 * ~~[Jünemann's Pantoffel Eck](http://www.pantoffeleck.de/shop/)~~
+* ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
 * ~~[Mehlstübchen](http://www.mehlstuebchen.de)~~
 * ~~[Minga Berlin Apparel](http://www.mingaberlin.com)
 * ~~[Wildfleischhandel](http://www.wildfleisch-berlin.de/index.html)~~
