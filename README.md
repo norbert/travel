@@ -8,4 +8,4 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 
 <a href="/norbert/travel/fork_select" class="minibutton btn-fork" rel="facebox nofollow">Help me</a> plan the following:
 
-* Cape Town, South Africa, October 2012
+* TBD
