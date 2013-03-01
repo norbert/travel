@@ -29,6 +29,7 @@
 
 * [Bussia](http://www.bussia.nl/)
 * [Restaurant de Kas](http://www.restaurantdekas.nl)
+* [Restaurant Lieve](http://www.restaurantlieve.nl/en)
 * [Trouw Amsterdam](http://trouwamsterdam.nl)
 * [Wilde Zwijnen](http://wildezwijnen.com)
 
@@ -42,9 +43,11 @@
 
 ## Drinking
 
+* ['t Arendsnest](http://www.arendsnest.nl)
 * [Brouwerij 't IJ](http://www.brouwerijhetij.nl/)
 * [Door 74](http://www.door-74.com/)
 * [HPS](http://www.hpsamsterdam.com)
+* [In de Wildeman](http://www.indewildeman.nl)
 * [Vesper Bar](http://www.vesperbar.nl)
 * [Whiskycafé L&B](http://www.whiskyproeverijen.nl/en_cafe.htm)
 
