@@ -5,6 +5,7 @@
 ## Accommodation
 
 * [Park Plaza Westminster Bridge](http://www.parkplaza.com/london-hotel-gb-se1-7ut/gbwestmi)
+* [St Martins Lane Hotel](http://www.stmartinslane.com/)
 
 ## Dining
 
@@ -14,6 +15,7 @@
 
 * [Dean Street Townhouse](http://www.deanstreettownhouse.com/)
 * [St. JOHN BREAD & WINE](http://www.stjohnbreadandwine.com/)
+* [Hawksmoor](http://thehawksmoor.com/)
 
 ### Fine
 
@@ -21,6 +23,9 @@
 
 * [PRIMO Bar](http://www.primobar.co.uk/) - Open 24 hours.
 * [The Scotch Malt Whisky Society](http://www.smws.co.uk/venues/19_Greville_Street,_London)
+* [Opium Cocktail & Dim Sum Parlour](http://www.opiumchinatown.com/)
+* ~~[Experimental Cocktail Club](http://experimentalcocktailclublondon.com/)~~
+* ~~[Milk & Honey](http://www.mlkhny.com/london/)~~
 
 ## Activities
 
