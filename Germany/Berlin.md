@@ -63,6 +63,7 @@
 * [Club Der Visionäre](http://clubdervisionaere.com)
 * [Edelweiss](http://www.edelweiss36.com/)
 * [Finest Whisky](http://www.finestwhisky.de)
+* [Geist im Glas](http://geistimglas.com)
 * [Green Door](http://greendoor.de)
 * [Madame Claude](http://madameclaude.de/)
 * ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
