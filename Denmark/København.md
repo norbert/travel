@@ -20,22 +20,31 @@
 * [MANFREDs](http://manfreds.dk/)
 * [Nose2Tail](http://nose2tail.dk/)
 * ~~[Radio](http://restaurantradio.dk/english.asp)~~
+* [Restaurant Schønnemann](http://www.restaurantschonnemann.dk)
 * [sticks'n'sushi](http://www.sushi.dk/en/)
 
 ### Fine
 
 * ~~[Geranium](http://geranium.dk/)~~
 * ~~[Relæ](http://restaurant-relae.dk/)~~
-* ~~[noma](http://www.noma.dk/main.php?lang=en)~~
+* [noma](http://www.noma.dk/main.php?lang=en)
 
 ## Drinking
 
 * [Maven](http://ww.restaurantmaven.dk/)
 * [Mikkeller](http://mikkeller.dk/)
 * [Nørrebro Bryghus](http://noerrebrobryghus.dk/21/)
+* ~~[Ruby](http://rby.dk)~~
+* [Salon 39](http://www.salon39.dk)
+* [Ved Stranden 10](http://www.vedstranden10.dk/)
+
+## Shopping
+
+* [Torvehallerne](http://www.torvehallernekbh.dk)
 
 ## Activities
 
+* [Botanical Garden](http://botanik.snm.ku.dk/english)
 * [Freetown Christiania](http://en.wikipedia.org/wiki/Freetown_Christiania)
 
 ## [Photos](http://www.flickr.com/photos/dylane/sets/72157630118292894/)

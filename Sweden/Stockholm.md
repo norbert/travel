@@ -5,6 +5,7 @@
 ## Accommodation
 
 * [Nordic Light Hotel](http://www.nordiclighthotel.se/en/)
+* [Yasuragi](http://www.yasuragi.se)
 
 ## Dining
 
@@ -13,6 +14,7 @@
 ### Good
 
 * [B.A.R.](http://restaurangbar.se/en/)
+* [Vigårda](http://vigarda.se)
 
 ### Fine
 
@@ -20,6 +22,8 @@
 * [Mathias Dahlgren](http://www.mdghs.com/index.php?lang=En)
 
 ## Drinking
+
+* [Akkurat](http://www.akkurat.se)
 
 ## Activities
 
