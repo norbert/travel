@@ -75,7 +75,6 @@
 * [HERMAN](https://www.facebook.com/bravebelgians.HERMAN)
 * [Madame Claude](http://madameclaude.de/)
 * [Prater Biergarten](http://www.pratergarten.de/d/biergarten.php4)
-* [Whisky & Cigars](http://whisky-cigars.de)
 * [Zyankali](http://www.zyankali.de/)
 
 ## Shopping
@@ -92,15 +91,17 @@
 * ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
 * ~~[Mehlstübchen](http://www.mehlstuebchen.de)~~
 * ~~[Minga Berlin Apparel](http://www.mingaberlin.com)
+* [Whisky & Cigars](http://whisky-cigars.de)
 * ~~[Wildfleischhandel](http://www.wildfleisch-berlin.de/index.html)~~
 
 ## Clubbing
 
 ### Decent
-* [Tresor](http://tresorberlin.com/)
-* [Weekend](http://www.week-end-berlin.de/)
+
 * [Arena](http://www.arena-club.de/)
+* [Tresor](http://tresorberlin.com/)
 * [VCF](http://www.residentadvisor.net/club-detail.aspx?id=8007)
+* [Weekend](http://www.week-end-berlin.de/)
 
 ### Good
 
@@ -108,6 +109,7 @@
 * [KaterHolzig](http://www.katerholzig.de/)
 
 ### Excellent
+
 * [Berghain](http://berghain.de/)
 * [Watergate](http://www.water-gate.de/)
 
