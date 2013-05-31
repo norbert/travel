@@ -71,6 +71,7 @@
 * [Buck & Breck](http://buckandbreck.com)
 * [Club Der Visionäre](http://clubdervisionaere.com)
 * [Edelweiss](http://www.edelweiss36.com/)
+* [Geist im Glas](http://geistimglas.com)
 * [Green Door](http://greendoor.de)
 * [HERMAN](https://www.facebook.com/bravebelgians.HERMAN)
 * [Madame Claude](http://madameclaude.de/)
