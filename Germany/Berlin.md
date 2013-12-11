@@ -59,6 +59,7 @@
 
 ### Fine
 
+* ~~[Margaux](http://margaux-berlin.de/home)~~
 * [reinstoff](http://reinstoff.eu)
 
 ## Drinking
@@ -73,6 +74,7 @@
 * [Geist im Glas](http://geistimglas.com)
 * [Green Door](http://greendoor.de)
 * [HERMAN](https://www.facebook.com/bravebelgians.HERMAN)
+* [Le Croco Bleu](http://lecrocobleu.com/en)
 * [Madame Claude](http://madameclaude.de/)
 * [Prater Biergarten](http://www.pratergarten.de/d/biergarten.php4)
 * [Zyankali](http://www.zyankali.de/)
