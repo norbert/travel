@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Name": "The Barn",
+      "Address": "Auguststraße 58, 10119",
+      "Notes": "",
+      "How Many Dylans?": "",
+      "marker-symbol": "cafe",
+      "marker-color": "#3D9140"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.398130238056183,
+        52.52745564968129
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Five Elephant",
+      "Address": "Reichenberger Straße 101, 10999",
+      "Notes": "Definitely grab a cheesecake.",
+      "How Many Dylans?": "",
+      "marker-symbol": "cafe",
+      "marker-color": "#3D9140"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.43840092420578,
+        52.49335073639228
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "The Antlered Bunny",
+      "Address": "Oderstraße 7, 10247",
+      "Notes": "Gougère. Gougère. Gougère.",
+      "How Many Dylans?": "",
+      "marker-symbol": "bar",
+      "marker-color": "#3D9140"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.471121,
+        52.510251
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Burrito Baby",
+      "Address": "Pflügerstrasße 11, 12047",
+      "Notes": "EZY-B mit Käse und Gaucamole.",
+      "How Many Dylans?": "",
+      "marker-symbol": "fast-food",
+      "marker-color": "#3D9140"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.428300,
+        52.491330
+      ]
+    }
+  }]
+}

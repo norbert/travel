@@ -17,11 +17,10 @@
 
 ### Fast
 
-* [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
 * ~~[Babanbe](http://babanbe.com)~~
 * [Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)
+* [Burrito Baby](http://burritobaby.de)
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
-* [Dirty South](https://www.facebook.com/dirtysouthberlin)
 * [Fräulein Burger](http://www.fraeuleinburger.de)
 * [Hokey Pokey](http://www.hokey-pokey.de)
 * [Mustafas](http://mustafas.de/)
@@ -31,17 +30,17 @@
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 * ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
+* [Yarok](http://www.yarok-restaurant.de)
 
 ### Good
 
-* ~~[Aunt Benny](http://www.auntbenny.com)~~
-* ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
+* [Aunt Benny](http://www.auntbenny.com)
+* Balikci Ergün
 * [The Bird](http://www.thebirdinberlin.com/)
 * ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * ~~[Einklang](http://www.einklang-feinkost.de)~~
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
-* [Fischsuppen](https://www.facebook.com/Fischschuppen)
 * ~~[Grill Royal](http://www.grillroyal.com/)~~
 * ~~[Joris](https://www.facebook.com/JorisBerlin)~~
 * ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
@@ -55,7 +54,7 @@
 * [Sauvage](http://www.sauvageberlin.com) _paleo_
 * [Sasaya](http://sasaya-berlin.de)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
-* ~~[susuru](http://www.susuru.de)~~
+* [susuru](http://www.susuru.de)
 * [Transit](http://www.transit-restaurants.com)
 
 ### Fine
