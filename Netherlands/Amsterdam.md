@@ -22,8 +22,8 @@
 
 ### Brunch
 
-* [G&T's really, really nice place](http://www.reallyniceplace.com)
-* [Lovefood](http://www.jasonslovefood.com)
+* [G's really, really nice place](http://www.reallyniceplace.com)
+* [Staring at Jacob](http://staringatjacob.tumblr.com/)
 
 ### Good
 
