@@ -35,9 +35,11 @@
 
 ### Fine
 
+* [Bord'Eau](http://www.bordeau.nl/)
 * [Ciel Bleu](http://cielbleu.nl)
-* [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
+* ~~[La Rive](http://www.restaurantlarive.nl/)~~
 * [&samhoud places](http://www.samhoudplaces.com)
+* [Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
 * ~~[Yamazato](http://www.yamazato.nl)~~
 
 ## Drinking
