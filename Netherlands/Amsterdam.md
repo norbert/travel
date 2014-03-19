@@ -34,10 +34,12 @@
 
 ### Good
 
+* [Bar Brouw](http://barbrouw.nl/)
 * [Bussia](http://www.bussia.nl/)
 * [De Kas](http://www.restaurantdekas.nl)
 * [Franklin](http://barfranklin.nl/)
 * [Lieve](http://www.restaurantlieve.nl/en)
+* [Miss Korea](http://www.misskorea.nl/)
 * [Trouw Amsterdam](http://trouwamsterdam.nl)
 * [Wilde Zwijnen](http://wildezwijnen.com)
 
@@ -53,6 +55,7 @@
 ## Drinking
 
 * ['t Arendsnest](http://www.arendsnest.nl)
+* [BeerTemple](http://www.beertemple.nl/)
 * [Brouwerij 't IJ](http://www.brouwerijhetij.nl/)
 * [Door 74](http://www.door-74.com/)
 * [HPS](http://www.hpsamsterdam.com)
