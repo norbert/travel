@@ -4,32 +4,40 @@
 
 * ~~[Grand Hotel Amrâth Amsterdam](http://www.amrathamsterdam.com/)~~
 
-## Café
-
-* [Screaming Beans](http://screamingbeans.nl)
-* [Small World Catering](http://smallworldcatering.nl)
-
 ## Dining
 
-### Budget
+### Simple
+
+#### Breakfast/Lunch
 
 * [Bagels & Beans](http://www.bagelsbeans.nl/)
 * [Beter & Leuk](http://www.beterenleuk.nl/)
-* [Burger Bar](http://burger-bar.nl)
-* [Burgermeester](http://www.burgermeester.eu)
+* [De Bakkerswinkel](http://www.debakkerswinkel.nl/)
 * [Hartog's](http://www.volkorenbrood.nl/)
-* [The Butcher](http://www.the-butcher.com)
 
-### Brunch
+#### Brunch
 
 * [G's really, really nice place](http://www.reallyniceplace.com)
 * [Staring at Jacob](http://staringatjacob.tumblr.com/)
 
+#### Café
+
+* [Screaming Beans](http://screamingbeans.nl)
+* [Small World Catering](http://smallworldcatering.nl)
+* [TwoForJoy](http://twoforjoy.nl/)
+
+#### Burgers
+
+* [Burger Bar](http://burger-bar.nl)
+* [Burgermeester](http://www.burgermeester.eu)
+* [The Butcher](http://www.the-butcher.com)
+
 ### Good
 
 * [Bussia](http://www.bussia.nl/)
-* [Restaurant de Kas](http://www.restaurantdekas.nl)
-* [Restaurant Lieve](http://www.restaurantlieve.nl/en)
+* [De Kas](http://www.restaurantdekas.nl)
+* [Franklin](http://barfranklin.nl/)
+* [Lieve](http://www.restaurantlieve.nl/en)
 * [Trouw Amsterdam](http://trouwamsterdam.nl)
 * [Wilde Zwijnen](http://wildezwijnen.com)
 
@@ -53,3 +61,10 @@
 * [Whiskycafé L&B](http://www.whiskyproeverijen.nl/en_cafe.htm)
 
 ## Activities
+
+### Museums
+
+* [Hermitage](http://www.hermitage.nl/en/)
+* [Rijksmuseum](https://www.rijksmuseum.nl/en)
+* [Stedelijk Museum](http://www.stedelijk.nl/en)
+* [Van Gogh Museum](http://www.vangoghmuseum.nl/vgm/index.jsp)
